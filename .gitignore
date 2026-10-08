@@ -1,0 +1,7 @@
+# Datos sensibles: nunca subir al repositorio
+private/
+*.xlsx
+*.csv
+.venv/
+__pycache__/
+.DS_Store
